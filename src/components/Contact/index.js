@@ -28,7 +28,7 @@ const Contact = () => {
         'service_kg0gzec',
         'template_f32h007',
         form.current,
-        '_34kQ8wz8KyEp5UqS'
+        process.env.REACT_APP_EMAILJS_API_KEY
       )
       .then(
         () => {
