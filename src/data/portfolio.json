@@ -23,12 +23,6 @@
             "title": "Dicee Game",
             "description": "React, JSX, Tailwind, Jest",
             "url": "https://mikeskander.github.io/Dicee-Game/"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
         }
     ]
 }
