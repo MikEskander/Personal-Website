@@ -41,18 +41,20 @@ const About = () => {
             />
           </h1>
           <p>
-            I'm very ambitious front-end developer looking for a role in
-            established IT company with the opportunity to work with the latest
-            technologies on challenging and diverse projects.
+            I am a very ambitious front-end developer (with exposure to back-end
+            development as well) looking for a full-time software developer role
+            with opportunities to expand my knowledge with challenging projects.
           </p>
           <p align="LEFT">
-            I'm quietly confident, naturally curious, and perpetually working on
-            improving my chops one design problem at a time.
+            I am always eager to learn something new. I was once a Civil
+            Engineer for 4 years of my life, and chose to pursue software
+            development in order to continue my pursuit of challening myself
+            with new learning opportunities.
           </p>
           <p>
-            If I need to define myself in one sentence that would be a family
-            person, father of a beautiful daughter, a sports fanatic,
-            photography enthusiast, and tech-obsessed!!!
+            My strongsuits are leadership and teamwork/collaboration. I love to
+            spend time with the people I love. Favorite activities are
+            weight-lifting, swimming in the ocean, and rock-climbing.
           </p>
         </div>
 

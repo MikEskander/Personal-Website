@@ -1,28 +1,17 @@
 {
     "portfolio": [
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "Weather App",
-            "description": "Weather Application by City Name",
-            "url": "https://mikeskander.github.io/Weather-App/"
-        },
+        
         {
             "cover": "/portfolio/1/one.png",
             "title": "Drum Kit App",
-            "description": "React, JSX, Tailwind, Jest",
+            "description": "Javascript",
             "url": "https://mikeskander.github.io/Drum-Kit/"
         },
         {
-            "cover": "/portfolio/1/one.png",
+            "cover": "/data/Kairho.png",
             "title": "Simon Game",
-            "description": "React, JSX, Tailwind, Jest",
+            "description": "Javascript",
             "url": "https://mikeskander.github.io/Simon-Game/"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "Dicee Game",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "https://mikeskander.github.io/Dicee-Game/"
         }
     ]
 }
