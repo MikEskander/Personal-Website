@@ -48,7 +48,7 @@ const About = () => {
           <p align="LEFT">
             I am always eager to learn something new. I was once a Civil
             Engineer for 4 years of my life, and chose to pursue software
-            development in order to continue my pursuit of challening myself
+            development in order to continue my pursuit of challenging myself
             with new learning opportunities.
           </p>
           <p>
