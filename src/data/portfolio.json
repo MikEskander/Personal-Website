@@ -2,16 +2,25 @@
     "portfolio": [
         
         {
-            "cover": "/portfolio/1/one.png",
             "title": "Drum Kit App",
             "description": "Javascript",
             "url": "https://mikeskander.github.io/Drum-Kit/"
         },
         {
-            "cover": "/portfolio/ProfilePic.png",
             "title": "Simon Game",
             "description": "Javascript",
             "url": "https://mikeskander.github.io/Simon-Game/"
+        },
+           {
+            "title": "To-Do List",
+            "description": "React.js",
+            "url": "https://mike-to-do-list.netlify.app/"
+        },
+           {
+            "title": "Tic Tac Toe",
+            "description": "React.js",
+            "url": "https://mikes-tic-tac-toe.netlify.app/"
         }
+     
     ]
 }
