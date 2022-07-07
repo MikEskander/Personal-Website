@@ -52,7 +52,7 @@ const About = () => {
             with new learning opportunities.
           </p>
           <p>
-            My strongsuits are leadership and teamwork/collaboration. I love to
+            My strong suits are leadership and teamwork/collaboration. I love to
             spend time with the people I love. Favorite activities are
             weight-lifting, swimming in the ocean, and rock-climbing.
           </p>
